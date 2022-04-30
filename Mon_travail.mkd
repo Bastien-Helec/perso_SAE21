@@ -1,0 +1,10 @@
+# Ce que j'ai fait sur cette SAE : 
+-Réalisation de la partie virtuelle.
+-Soutient sur la partie physique (Mikrotik).
+-Réalisation des comptes rendus de groupe.  
+# Ce que cette SAE ma apporté :
+-Une meilleurs notion de GNS3 
+-Apprentissage complexe sur les ACLS 
+-Apprentissage du fonctionnement des pare-feu
+-utilité des VLANs 
+-Utilité d'une DMZ  
